@@ -1,1 +1,2 @@
 Initial commit: Game window and setup
+Added snake movement controls
