@@ -3,3 +3,4 @@ Added snake movement controls
 Food mechanics implemented
 Basic scoring system
 Collision detection with walls
+Game over and restart logic
