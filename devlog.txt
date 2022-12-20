@@ -7,3 +7,4 @@ Game over and restart logic
 Styled snake and food colors
 Score display updated
 Refactored movement code
+Final touches and cleanup
